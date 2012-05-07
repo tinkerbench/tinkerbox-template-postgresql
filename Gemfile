@@ -41,4 +41,7 @@ gem "cancan", ">= 1.6.7"
 gem "rolify", ">= 3.1.0"
 gem "bootstrap-sass", ">= 2.0.1"
 gem "simple_form"
-gem "will_paginate", ">= 3.0.3"
+gem "kaminari"
+gem "formtastic", "~> 2.1.1" # See http://stackoverflow.com/questions/10087737/activeadmin-error-no-superclass-method-buttons
+gem 'activeadmin'
+gem "meta_search",    '>= 1.1.0.pre'
