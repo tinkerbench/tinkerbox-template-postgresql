@@ -4,16 +4,16 @@ A basic starter project for Tinkerbench Rails projects. Simply fork and rename.
 
 == Getting Started
 
-1. Email is set up to use Gmail, so GMAIL_USERNAME and GMAIL_PASSWORD must be set
-in your local environment.
+1. Email is set up to use Gmail, so GMAIL_USERNAME and GMAIL_PASSWORD must be 
+set in your local environment.
 
 2. Modify config/database.yml for your project as needed.
 
 3. ActiveAdmin uses the default admin authentication configuration:
-User: admin@example.com
-Password: password
 
-* ActiveAdmin Documentation: http://activeadmin.info/documentation.html
+* User: admin@example.com
+* Password: password
+* Also see ActiveAdmin Documentation: http://activeadmin.info/documentation.html
 
 == TODO
 
